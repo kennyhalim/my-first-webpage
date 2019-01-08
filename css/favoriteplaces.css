@@ -1,0 +1,39 @@
+h1 {
+  color: pink;
+  font-style: italic;
+  text-align: center;
+  font-weight: lighter;
+  font-family: cursive;
+  font-size: 36px;
+  line-height: normal;
+}
+
+h2 {
+  color: pink;
+  font-style: italic;
+  text-align: center;
+  font-weight: lighter;
+  font-family: cursive;
+  font-size: 36px;
+  line-height: normal;
+}
+
+p {
+  color: pink;
+  font-style: ;
+  text-align: center;
+  font-weight: bold;
+  font-family:sans-serif;
+  font-size: 36px;
+  line-height: normal;
+}
+
+ul {
+  color: pink;
+  font-style: italic;
+  text-align: left;
+  font-weight: lighter;
+  font-family: cursive;
+  font-size: 36px;
+  line-height: normal;
+}
